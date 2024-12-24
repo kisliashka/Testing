@@ -1,0 +1,5 @@
+program title1;
+var a,c: boolean;
+begin
+a := c
+end.
